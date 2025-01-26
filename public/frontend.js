@@ -1,3 +1,6 @@
+ CONFIG = {
+    API_URL: 'http://127.0.0.1:5001/api/nft',
+}
 // Initialize global variables
 let web3;
 let contract;

@@ -1,5 +1,5 @@
  CONFIG = {
-    API_URL: 'http://127.0.0.1:5001/api/nft',
+    API_URL: 'http://192.168.56.1:5001/api/nft',
 }
 // Initialize global variables
 let web3;
